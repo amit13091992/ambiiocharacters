@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AmiiboCharacters</string>
+    <string name="no_internet">Please chcek your internet connection.</string>
+    <string name="search_hint">Search Ambiio Characters</string>
+</resources>
